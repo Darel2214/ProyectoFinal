@@ -1,0 +1,23 @@
+{
+  "name": "sombreros-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.0",
+    "boxicons": "^2.0.9",
+    "form-data": "^4.0.0",
+    "next": "11.1.0",
+    "nookies": "^2.5.2",
+    "nprogress": "^0.2.0",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.0.0-beta.6",
+    "react-data-table-component": "^6.11.8",
+    "react-dom": "17.0.2"
+  }
+}
